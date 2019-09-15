@@ -8,7 +8,7 @@
 
 This repository contains the data and code for reproducing the results reported my work 
 ["Polyphonic Bird Sound Event Detection With
-Convolutional Recurrent Neural Networks"](https://drive.google.com/open?id=1726Uo_Y1skX0ebFjR9_exTwcgOU0c5Hl).
+Convolutional Recurrent Neural Networks"](https://drive.google.com/open?id=1K0C4aLRy1r2o6AdVg1b8VlhJp6AQpPCy).
  
 The network architecture was inspired by [sednet](https://github.com/sharathadavanne/sed-crnn/blob/master/README.md).    
 The dataset is called UvABirds and contains 3200+ annotations of bird songs. 
