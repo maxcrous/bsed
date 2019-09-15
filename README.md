@@ -6,7 +6,7 @@
 # Polyphonic Bird Sound Event Detection
 
 
-This repository contains the data and code for reproducing the results reported my work 
+This repository contains the data and code for reproducing the results reported in 
 ["Polyphonic Bird Sound Event Detection With
 Convolutional Recurrent Neural Networks"](https://drive.google.com/open?id=1K0C4aLRy1r2o6AdVg1b8VlhJp6AQpPCy).
  
