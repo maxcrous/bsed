@@ -31,8 +31,8 @@ audio files:
 [Google drive](https://drive.google.com/open?id=1rm0KpcpQgd3gXQO_oeLWcLSzFrdKyj-i)
 
 trained network:
-[Google drive](https://drive.google.com/open?id=10o9OJaBS2qtYaknyH7JCVuXKtGLemB72)   
-This network achieves a frame-wise F-score of 0.94 and an error rate of 0.11.    
+[Google drive](https://drive.google.com/open?id=17OSyrQj6TCPiIVYseeSv_HrlEgKk0ptW)   
+This network achieves a frame-wise F-score of 0.94 and an error rate of 0.11 on three concurrent sound events.    
 The networks input feature hyperparameters are as follows:    
 sequence length = 512 frames (approximately 12 seconds).    
 sample rate = 44100Hz    
