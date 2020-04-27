@@ -4,7 +4,7 @@ data i.e. feature files, by combining audio and annotation files.
 This feature data can be directly interpreted by the network.
 
 
-The feature data is stored as separate files to enable the use of an arbitrarily large datasets.
+The feature data is stored as separate files to enable the use of arbitrarily large datasets.
 The program is called as follows:
 
     $python3 features.py --audios_directory ~/audio_dir_here \
