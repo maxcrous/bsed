@@ -62,7 +62,7 @@ To use a trained model, use the SEDgenerator to prepare samples and feed them to
 `prediction = model.predict(sample)` 
 
 # How to create your own dataset 
-If you wish to create a large dataset and require a fast annotating interface with collaboration capabilities, consider using [CrowdCurio's annotater frontend](https://github.com/CrowdCurio/audio-annotator). If you cannot create a backend for this frontend, consider [dynilib's dynitag](https://github.com/dynilib/dynitag), which is both a CrowdCurio frontend and a backend running in Docker. For this work I used dynitag. Note that getting dynitag running requires some tinkering. 
+If you wish to create a large dataset and require a fast annotating interface with collaboration capabilities, consider using [CrowdCurio's annotator frontend](https://github.com/CrowdCurio/audio-annotator). If you cannot create a backend for this frontend, consider [dynilib's dynitag](https://github.com/dynilib/dynitag), which is both a CrowdCurio frontend and a backend running in Docker. For this work I used dynitag. Note that getting dynitag running requires some tinkering. 
 
 If this all seems like too much trouble, one can use the audio editor [Audacity](https://www.audacityteam.org/), which can [annotate recordings](https://manual.audacityteam.org/man/creating_and_selecting_labels.html) and export these annotations to the `start, end, class` format used in this work (see `features.py`).
 
