@@ -18,7 +18,7 @@ The program is called as follows:
 How it works:
 
 The script reads an audio file and generates a spectrogram (the independent variable).
-At the same time, it reads and annotation file and generates the label array (the target variable).
+At the same time, it reads an annotation file and generates the label array (the target variable).
 All spectrograms are merged into a single extremely long spectrogram, which is then cut up
 into spectrograms of length `seq_length`. The same happens for the label arrays and audio.
 Finally, the spectorgrams, label array (and audio) are saved as a single tuple in a .npy file.
