@@ -1,6 +1,6 @@
 alt-model-checkpoint==1.0.2
 Keras==2.2.4
-tensorflow==1.13.1
+tensorflow==2.5.0
 librosa==0.6.3
 scipy==1.2.1
 moviepy==1.0.0
